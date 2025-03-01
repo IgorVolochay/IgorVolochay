@@ -43,11 +43,3 @@ Since August 2023, I’ve been a Lab Technician at [FabLab, Crimean Federal Univ
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" alt="jupyter logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/IgorVolochay/IgorVolochay/output/snake.svg" alt="Snake animation" />
-
-###
