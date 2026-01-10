@@ -9,7 +9,7 @@ I'm a 20-year-old Python backend developer coding since 2019. I work mainly with
 Since August 2023, I’ve been a Lab Technician at [FabLab, Crimean Federal University](http://www.fablabcfuv.ru/)
 
 ### My best Public projects
-- [ThisORthat](https://github.com/IgorVolochay/thisORthat) - Telegram Mini-app 
+- [Drop me Files Analog](https://github.com/IgorVolochay/Drop-me-files-analog) - Web-app analog dropmefiles.com
 - A neural network-based [face recognition](https://github.com/IgorVolochay/Face-recognition) system
 - YouTube chanal - [Псевдо Программист](https://www.youtube.com/@PseudoDev)
 
