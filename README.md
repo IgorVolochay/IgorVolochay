@@ -2,7 +2,7 @@
 
 ###
 
-I'm a 20-year-old Python backend developer coding since 2019. I work mainly with FastAPI and Tornado, and I'm skilled with PostgreSQL, MongoDB, MySQL, Redis, and RabbitMQ. I also handle Linux administration, Docker, CI/CD via GitHub Actions, and manage web servers like Nginx and Apache.
+I'm a Python backend developer coding since 2019. I work mainly with FastAPI and Tornado, and I'm skilled with PostgreSQL, MongoDB, MySQL, Redis, and RabbitMQ. I also handle Linux administration, Docker, CI/CD via GitHub Actions, and manage web servers like Nginx and Apache.
 
 ### My work experience
 
